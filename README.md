@@ -1,6 +1,6 @@
 # HighSumCardGame-Java
 Implementation of the High Sum Card game in Java , with CPU and Player as contestants.
-#TASK INTRODUCTION
+##  TASK INTRODUCTION
 High Sum is a community card game that can be played with 2 to 10 players. One of the players will be the dealer.
 In this assignment, there is only 1 dealer, that is the Java program, and a single human player.
 Since the dealer is "a type" of player, references to "player" may be to the dealer or the single human player.
