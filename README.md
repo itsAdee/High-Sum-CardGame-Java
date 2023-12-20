@@ -22,4 +22,4 @@ The cards are valued as follows:
 
 The value on a player’s hand is the sum of the points counted for each card in the hand. For example, a hand containing (4, 6, 9) has a value of 19.
 
-*Provide markup*
+
